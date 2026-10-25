@@ -33,6 +33,10 @@ AddressBook/
 ├── addressbook.c   # Main source code
 └── README.md       # Project documentation
 ```
+## Concepts Used
+
+- Structures (`struct`) to store contact details
+- File handling (`fopen`, `fread`/`fwrite` or `fprintf`/`fscanf`) to save contacts permanently
 
 ## Author
 
